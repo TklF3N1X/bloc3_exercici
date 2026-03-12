@@ -1,4 +1,8 @@
 La vida de Brian
 Monty Python and the Holy Grail
 Matrix
+<<<<<<< HEAD
 Inception
+=======
+El sentit de la vida
+>>>>>>> 6aacd81 (Afegida El sentit de la vida)
